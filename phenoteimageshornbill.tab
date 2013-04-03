@@ -1,0 +1,39 @@
+Image URL	Depicted Structure ID	Depicted Structure Name	Containing Structure (optional) ID	Containing Structure (optional) Name	Taxon ID	Taxon Name	Description	Date Created	
+HB_Carpal_Lat_R.png	UBERON:0001435	carpal bone			NCBITAXON:175832	Ceratogymna atrata	Right carpal of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Carpometacarpus_Prox_R.png	UBERON:0011205	carpometacarpus			NCBITAXON:175832	Ceratogymna atrata	Right carpometacarpus of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Clavicle_Lat_L_o.png	UBERON:0001105	clavicle			NCBITAXON:175832	Ceratogymna atrata	Left clavicle of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Femur_Dis_R.png	UBERON:0000981	femur			NCBITAXON:175832	Ceratogymna atrata	Right femur of Ceratogymna atrata in distal view	Apr 1, 2013	
+HB_Femur_Prox_R.png	UBERON:0000981	femur			NCBITAXON:175832	Ceratogymna atrata	Right femur of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Humerus_Dis_R.pn	UBERON:0000976	humerus			NCBITAXON:175832	Ceratogymna atrata	Right humerus of Ceratogymna atrata in distal view	Apr 1, 2013	
+HB_Humerus_Med_L.png	UBERON:0000976	humerus			NCBITAXON:175832	Ceratogymna atrata	Left humerus of Ceratogymna atrata in medial view	Apr 1, 2013	
+HB_Humerus_Prox_R.png	UBERON:0000976	humerus			NCBITAXON:175832	Ceratogymna atrata	Right humerus of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Manus_Dis_R.png	UBERON:0002398	manus			NCBITAXON:175832	Ceratogymna atrata	Right manus of Ceratogymna atrata in distal view	Apr 1, 2013	
+HB_Manus_Lat_L.png	UBERON:0002398	manus			NCBITAXON:175832	Ceratogymna atrata	Left manus of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Manus_Med_L.png	UBERON:0002398	manus			NCBITAXON:175832	Ceratogymna atrata	Left manus of Ceratogymna atrata in medial view	Apr 1, 2013	
+HB_Metatarsal1_Ant_R.png	UBERON:0003650	metatarsal bone of digit 1			NCBITAXON:175832	Ceratogymna atrata	Right metatarsal 1 of Ceratogymna atrata in anterior view	Apr 1, 2013	
+HB_Metatarsal1_Post_R.png	UBERON:0003650	metatarsal bone of digit 1			NCBITAXON:175832	Ceratogymna atrata	Right metatarsal 1 of Ceratogymna atrata in posterior view	Apr 1, 2013	
+HB_Metatarsal1_Prox_R.png	UBERON:0003650	metatarsal bone of digit 1			NCBITAXON:175832	Ceratogymna atrata	Right metatarsal 1 of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Patella_Ant_R.png	UBERON:0002446	patella			NCBITAXON:175832	Ceratogymna atrata	Right patella of Ceratogymna atrata in anterior view	Apr 1, 2013	
+HB_Patella_Post_R.png	UBERON:0002446	patella			NCBITAXON:175832	Ceratogymna atrata	Right patella of Ceratogymna atrata in posterior view	Apr 1, 2013	
+HB_Pelvis_Dor.png	UBERON:0002355	pelvis			NCBITAXON:175832	Ceratogymna atrata	Pelvis of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Pelvis_Lat.png	UBERON:0002355	pelvis			NCBITAXON:175832	Ceratogymna atrata	Pelvis of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Pelvis_Vent.png	UBERON:0002355	pelvis			NCBITAXON:175832	Ceratogymna atrata	Pelvis of Ceratogymna atrata in ventral view	Apr 1, 2013	
+HB_phalanges_Dor_R.png	UBERON:0003221	phalanx			NCBITAXON:175832	Ceratogymna atrata	Right phalanges of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Phalanges_Vent_R.png	UBERON:0003221	phalanx			NCBITAXON:175832	Ceratogymna atrata	Right phalanges of Ceratogymna atrata in ventral view	Apr 1, 2013	
+HB_Phalanx_I-1_Dor_L.png	UBERON:0004302	proximal phalanx			NCBITAXON:175832	Ceratogymna atrata	Left proximal phalanx of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Phalanx_I-1_Ven_L.png	UBERON:0004302	proximal phalanx			NCBITAXON:175832	Ceratogymna atrata	Left proximal phalanx of Ceratogymna atrata in ventral view	Apr 1, 2013	
+HB_Phalanx_I-2_Lat_L.png	UBERON:0004333	proximal phalanx of pedal digit 2			NCBITAXON:175832	Ceratogymna atrata	Left phalanx 1 of digit 2 of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Phalanx_II-1_Dor_L.png	UBERON:0001449	phalanx of pes			NCBITAXON:175832	Ceratogymna atrata	Left phalanx 2 of digit II of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Phalanx_Med_L.png	UBERON:0003221	phalanx			NCBITAXON:175832	Ceratogymna atrata	Left phalanx of Ceratogymna atrata in medial view	Apr 1, 2013	
+HB_Phalanx2_Med_L.png	UBERON:0003221	phalanx			NCBITAXON:175832	Ceratogymna atrata	Left phalanx 2 of Ceratogymna atrata in medial view	Apr 1, 2013	
+HB_Radius_Lat_R.png	UBERON:0001423	radius bone			NCBITAXON:175832	Ceratogymna atrata	Right radius of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Radius_Prox_R.png	UBERON:0001423	radius bone			NCBITAXON:175832	Ceratogymna atrata	Right radius of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Tarsometarsus_Post_L.png	UBERON:0008195	tarsometatarsus			NCBITAXON:175832	Ceratogymna atrata	Left tarsometatarsus of Ceratogymna atrata in posterior view	Apr 1, 2013	
+HB_TarsoMetatarsus_Dis_R.png	UBERON:0008195	tarsometatarsus			NCBITAXON:175832	Ceratogymna atrata	Right tarsometatarsus of Ceratogymna atrata in distal view	Apr 1, 2013	
+HB_Tarsometatarsus_Prox_R.png	UBERON:0008195	tarsometatarsus			NCBITAXON:175832	Ceratogymna atrata	Right tarsometatarsus of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_TibFib_Dor_L.png	UBERON:0000979	tibia	UBERON:0001446	fibula	NCBITAXON:175832	Ceratogymna atrata	Left tibia and fibula of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Ulna_Dor_R.png	UBERON:0001424	ulna			NCBITAXON:175832	Ceratogymna atrata	Right ulna of Ceratogymna atrata in dorsal view	Apr 1, 2013	
+HB_Ulna_Lat_R.png	UBERON:0001424	ulna			NCBITAXON:175832	Ceratogymna atrata	Right ulna of Ceratogymna atrata in lateral view	Apr 1, 2013	
+HB_Ulna_Med_R.png	UBERON:0001424	ulna			NCBITAXON:175832	Ceratogymna atrata	Right ulna of Ceratogymna atrata in medial view	Apr 1, 2013	
+HB_Ulna_Prox_R.png	UBERON:0001424	ulna			NCBITAXON:175832	Ceratogymna atrata	Right ulna of Ceratogymna atrata in proximal view	Apr 1, 2013	
+HB_Ulna_Ven_R.png	UBERON:0001424	ulna			NCBITAXON:175832	Ceratogymna atrata	Right ulna of Ceratogymna atrata in ventral view	Apr 1, 2013	
