@@ -1,3 +1,17 @@
 Image URL	Depicted Structure ID	Depicted Structure Name	Containing Structure (optional) ID	Containing Structure (optional) Name	Taxon ID	Taxon Name	Description	Date Created	
-HB_Carpal_Lat_R.png	UBERON:0001435	carpal bone					Right carpal of Bucorvus abyssinicus in lateral view	Mar 17, 2013	
-								Mar 17, 2013	
+Cat_Humerus_Post_R.png	UBERON:0000976	humerus			NCBITAXON:9682	Felis	Right humerus of Felis catus in posterior view.	Mar 12, 2013	
+Cat_Femur_Lat_R.png	UBERON:0000981	femur			NCBITAXON:9685	Felis catus	Right femur of Felis catus in lateral view.	Mar 12, 2013	
+Cat_Fibula_Ant_L.png	UBERON:0001446	fibula			NCBITAXON:9685	Felis catus	Left fibula of Felis catus in anterior view.	Mar 12, 2013	
+Cat_Fibula_Lat_L.png	UBERON:0001446	fibula			NCBITAXON:9685	Felis catus	Left fibula of Felis catus in lateral view.	Mar 12, 2013	
+Cat_Fibula_Med_L.png	UBERON:0001446	fibula			NCBITAXON:9685	Felis catus	Left fibula of Felis catus in median view.	Mar 12, 2013	
+Cat_Manus_Dor_L.png	UBERON:0002398	manus			NCBITAXON:9685	Felis catus	Left manus of Felis catus in dorsal view.	Mar 12, 2013	
+Cat_Pelvis_Dor.png	UBERON:0002355	pelvis			NCBITAXON:9685	Felis catus	Pelvis of Felis catus in dorsal view.	Mar 12, 2013	
+Cat_Radius_Lat_R.png	UBERON:0001423	radius bone			NCBITAXON:9685	Felis catus	Right radius of Felis catus in lateral view.	Mar 12, 2013	
+Cat_Scapula_Med_R.png	UBERON:0006849	scapula			NCBITAXON:9685	Felis catus	Right scapula of Felis catus in median view.	Mar 12, 2013	
+Cat_Tibia_Ant_L.png	UBERON:0000979	tibia			NCBITAXON:9685	Felis catus	Left tibia of Felis catus in anterior view.	Mar 12, 2013	
+Cat_Tibia_Lat_L.png	UBERON:0000979	tibia			NCBITAXON:9685	Felis catus	Left tibia of Felis catus in lateral view.	Mar 12, 2013	
+Cat_Tibia_Post_L.png	UBERON:0000979	tibia			NCBITAXON:9685	Felis catus	Left tibia of Felis catus in posterior view.	Mar 12, 2013	
+Cat_Tibia_Med_L.png	UBERON:0000979	tibia			NCBITAXON:9685	Felis catus	Left tibia of Felis catus in median view.	Mar 12, 2013	
+Cat_Ulna_Ant_R_.png	UBERON:0001424	ulna			NCBITAXON:9685	Felis catus	Right ulna of Felis catus in anterior view.	Mar 12, 2013	
+Cat_Ulna_Lat_R.png	UBERON:0001424	ulna			NCBITAXON:9685	Felis catus	Right ulna of Felis catus in lateral view.	Mar 12, 2013	
+Cat_Ulna_Post_R.png	UBERON:0001424	ulna			NCBITAXON:9685	Felis catus	Right ulna of Felis catus in posterior view.	Mar 12, 2013	
