@@ -538,7 +538,7 @@
                 </someValuesFrom>
             </Restriction>
         </rdf:type>
-        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Right ulna of Felis catus in postrior view.</dc:description>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Right ulna of Felis catus in posterior view.</dc:description>
     </NamedIndividual>
 </rdf:RDF>
 
